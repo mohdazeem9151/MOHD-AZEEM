@@ -1,14 +1,20 @@
 # PLFS 2025: exploratory labour analysis
 
-This project contains an exploratory Stata script for weighted summaries of women aged 15–60 and Muslim youth aged 15–29.
+This project contains exploratory Stata work on weighted summaries of women aged 15–60 and Muslim youth aged 15–29.
 
-## Status
+## Status and results
 
-This is an early working draft. The estimates have **not** been independently validated or run from this public repository. Activity-status codes, enterprise-type classification, religion linkage, survey weights, sample universes, and survey-design variance need review. Do not cite earlier generated tables as confirmed results. Annual PLFS 2025 estimates may require special care because survey methodology changed from January 2025.
+The script and saved tables are early working materials. They have **not** been independently validated or reproduced from this public repository. Activity-status codes, enterprise-type classification, religion linkage, survey weights, sample universes, and survey-design variance need review. Annual PLFS 2025 estimates may require special care because survey methodology changed from January 2025.
+
+One preliminary aggregate table is included for review:
+
+- [Women aged 15–60 summary](results/preliminary/plfs_women_15_60_preliminary.csv)
+
+The table contains population-level aggregates, not person-level records. The Muslim-youth table is withheld pending reconciliation of its population definition, religion linkage, and totals.
 
 ## Data and privacy
 
-No PLFS unit-level files or output tables are included. Obtain data and metadata through the [MoSPI microdata portal](https://microdata.gov.in/NADA/index.php/home) and follow its applicable access and use terms. Do not add restricted data to this repository.
+No PLFS unit-level files are included. Obtain data and metadata through the [MoSPI microdata portal](https://microdata.gov.in/NADA/index.php/home) and follow applicable access and use terms. Do not add restricted data to this repository.
 
 ## Running
 
@@ -20,7 +26,7 @@ The script displays weighted summary estimates in Stata. It does not calculate s
 
 ## Next steps
 
-- Validate the file structure, codes, merge keys, multiplier and target populations against released documentation.
+- Validate the file structure, codes, merge keys, multiplier, and target populations against released documentation.
 - Review classification choices and reconcile unknown enterprise categories.
 - Use an appropriate survey-design estimator before making inferential claims.
-- Reproduce the results and document data and software versions before publishing validated tables.
+- Reproduce the results and document data and software versions before relying on or expanding the preliminary table.
