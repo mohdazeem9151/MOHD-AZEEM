@@ -1,43 +1,45 @@
 # Mohd Azeem
 
-Emerging social science researcher working across digital society, labour, livelihoods, agricultural credit, healthcare digitalisation, and public policy in India.
+I am an emerging social science researcher interested in how technology, work and public policy shape people’s lives in India. My work brings together field research and data analysis, with a current focus on agricultural credit and the Dvara Khet Score model in Rajasthan.
 
-My work combines social research and data analysis. I have experience supporting field research and primary data collection, working with survey data, and documenting questions about how technologies, institutions, and public programmes shape people's access to work, credit, healthcare, and other services. My current research focus is agricultural credit access and the Dvara Khet Score model in Rajasthan.
+## Research interests
+
+Labour and livelihoods; digital society and public services; agriculture and rural finance; household consumption; inequality; and evidence for public policy. I also explore data on Rae Bareli and Uttar Pradesh, alongside research from other parts of India.
 
 ## Education
 
-- **M.Sc. Digital Society**, Central University of Rajasthan, 2024–2026
-- **M.A. Sociology**, Indira Gandhi National Open University, 2025–2027
-- **B.Sc. Science (Physics, Chemistry and Mathematics)**, Chhatrapati Shahu Ji Maharaj University, 2021–2024
+- **M.Sc. Digital Society**, Central University of Rajasthan (2024–2026)
+- **M.A. Sociology**, Indira Gandhi National Open University (2025–2027)
+- **B.Sc. Physics, Chemistry and Mathematics**, Chhatrapati Shahu Ji Maharaj University (2021–2024)
 
-## Research experience and engagement
+## Research and professional experience
 
-- **PLFS data training, V.V. Giri National Labour Institute (VVGNLI)** — completed a residential, fully funded training programme on PLFS data.
+- **Research Intern**, Department of Humanities and Social Sciences, IIT Delhi — supported field research and data entry for a study of healthcare digitalisation in Chhattisgarh and Jharkhand.
+- **Social Media Assistant**, Department of Society–Technology Interface, Central University of Rajasthan (2025–2026).
+- **Country Ambassador – India**, ISRC 2026, Dhaka University Research Society.
 
-- **Research Intern, Department of Humanities and Social Sciences, IIT Delhi** — supported field research and data entry for work on healthcare digitalisation in Chhattisgarh and Jharkhand.
-- **Social Media Assistant, Department of Society-Technology Interface, Central University of Rajasthan**, 2025–2026.
-- **Country Ambassador - India, ISRC 2026**, Dhaka University Research Society.
+## Training
 
-## Selected research
+Completed a **fully funded residential training programme on PLFS data** at the **V.V. Giri National Labour Institute (VVGNLI)**.
 
-- **Agricultural credit access and the Dvara Khet Score model:** dissertation research on farmers in Dudu and Phagi tehsils of Jaipur, Rajasthan. Three related research papers are in progress.
-- **E-Dharti portal, Rajasthan:** case study on the digitalisation of land records.
-- **Agricultural pollution:** research and presentation focused on Delhi and Punjab, including analysis and policy recommendations.
+## Selected work
+
+### Public-source data and analysis
+
+- [HCES 2023–24: official tables](projects/hces-2023-24-official-data/README.md) — MoSPI household consumption figures, State/UT comparisons, trends, fractiles and charts.
+- [PLFS annual indicators, 2017–18 to 2023–24](projects/plfs-official-annual-stats/README.md) — all-India LFPR, WPR and unemployment rates by sex, area and status.
+- [Women’s labour force trends](projects/plfs-women-labour-trends/README.md) — a focused analysis of published PLFS indicators for women.
+- [Digital agriculture: e-NAM](projects/digital-agriculture-enam/README.md) — official State/UT data on market integration, cumulative trade and farmer registrations.
+
+### Exploratory work
+
+- [HCES household consumption analysis](projects/hces-2023-24/README.md) — early Stata summaries for India, Uttar Pradesh and Rae Bareli.
+- [PLFS 2025 labour analysis](projects/plfs-2025/README.md) — preliminary Stata summaries using the redesigned PLFS series.
+
+Exploratory results are labelled as preliminary and should not be cited as validated findings. Each project page explains its sources, methods and limitations. No survey microdata or private fieldwork records are included.
 
 ## Methods and tools
 
-Field research, primary data collection, structured and semi-structured survey design, stakeholder interviews, focus group discussions, data cleaning and management, qualitative and quantitative analysis, and research documentation. Tools listed in my current experience include SPSS, R, Stata, Python, KoboToolbox, LaTeX, Zotero, PowerPoint, and Canva. I have also reported exposure to Java, Hadoop, Spark, and AI-assisted research workflows.
-
-## Portfolio projects
-
-- [Digital agriculture: e-NAM state statistics](projects/digital-agriculture-enam/README.md) — official State/UT tables on e-NAM market integration, trade and farmer registrations (30 June 2025).
-
-- [HCES 2023–24 official tables and comparisons](projects/hces-2023-24-official-data/README.md) — State/UT expenditure, item groups, trends, fractiles, sample counts and charts drawn from MoSPI publications.
-- [PLFS annual headline statistics (2017–18 to 2023–24)](projects/plfs-official-annual-stats/README.md) — downloadable all-India annual data by indicator, sex, area and status, with charts and MoSPI sources.
-- [PLFS women’s labour trends (2017–18 to 2023–24)](projects/plfs-women-labour-trends/README.md) — sourced analysis and charts using official MoSPI aggregate tables.
-- [HCES 2023–24 exploratory analysis](projects/hces-2023-24/README.md) — preliminary aggregate summaries and Stata code for selected household consumption measures, including India, Uttar Pradesh, and Rae Bareli.
-- [PLFS 2025 exploratory analysis](projects/plfs-2025/README.md) — preliminary women's summary and Stata code.
-
-The aggregate tables are working outputs and have not been independently validated. Survey microdata and private fieldwork records are not included. Please read each project page for its methods, data requirements, and limitations.
+My research experience includes field research, survey design, interviews, focus group discussions, data management, quantitative and qualitative analysis, and research writing. Tools I have worked with include R, Stata, Python, SPSS, KoboToolbox, LaTeX and Zotero.
 
 [LinkedIn](https://www.linkedin.com/in/mohd-azeem-658697345) · [GitHub profile](https://github.com/mohdazeem9151)
