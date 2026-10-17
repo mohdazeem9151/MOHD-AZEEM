@@ -1,37 +1,27 @@
-# Women’s labour force trends in India (PLFS, 2017–18 to 2023–24)
+# Women’s labour force trends in India
 
-Descriptive analysis of female LFPR, WPR and unemployment rates for people aged 15+, comparing rural, urban and combined estimates across seven PLFS annual rounds.
+A descriptive analysis of PLFS usual-status rates for women aged 15+, from 2017–18 to 2023–24. The figures compare rural, urban and combined estimates across seven annual rounds.
 
-## Main result
+## What the published rates show
 
-From 2017–18 to 2023–24, published all-India female LFPR rose from **23.3% to 41.7%** (+18.4 percentage points); WPR rose from **22.0% to 40.3%** (+18.3 pp). The unemployment rate moved from **5.6% to 3.2%** (−2.4 pp). LFPR rose by 23.0 pp in rural areas and 7.6 pp in urban areas.
+Between 2017–18 and 2023–24, the all-India female LFPR rose from **23.3% to 41.7%**, and the WPR from **22.0% to 40.3%**. The unemployment rate moved from **5.6% to 3.2%**. These are changes in published rates; they do not explain why the rates changed or show whether work was paid, secure or better quality.
 
-These are descriptive rate changes. They do not establish why rates changed, whether work was paid or secure, or whether employment quality improved.
+## Data and charts
 
-## Files and charts
+- [Download the dataset](data/female_labour_indicators_2017-18_to_2023-24.csv)
+- [Recreate the charts](analysis/plot_indicators.py) with Python 3 and Matplotlib
+- [LFPR chart](figures/female_lfpr.svg) · [WPR chart](figures/female_wpr.svg) · [Unemployment chart](figures/female_ur.svg)
 
-- [Tidy dataset](data/female_labour_indicators_2017-18_to_2023-24.csv)
-- [Reproducible plotting code](analysis/plot_indicators.py)
-- [Female LFPR graph](figures/female_lfpr.svg)
-- [Female WPR graph](figures/female_wpr.svg)
-- [Female unemployment graph](figures/female_ur.svg)
+![Women’s LFPR by area](figures/female_lfpr.svg)
+![Women’s WPR by area](figures/female_wpr.svg)
+![Women’s unemployment rate by area](figures/female_ur.svg)
 
-![Female LFPR](figures/female_lfpr.svg)
-![Female WPR](figures/female_wpr.svg)
-![Female unemployment rate](figures/female_ur.svg)
+The rates are percentages for women aged 15+. LFPR is the labour force as a share of the population; WPR is employed people as a share of the population; UR is unemployed people as a share of the labour force. All use usual status (principal plus subsidiary status). The combined estimate is published by MoSPI and is not an average of rural and urban rates. Values are rounded to one decimal place.
 
-## Definitions and limits
+## Sources and limitations
 
-Rates are percentages for women age 15+. LFPR means working or seeking/available for work; WPR means employed; UR is unemployed people as a share of the labour force. All use PLFS usual status (principal status plus subsidiary status). The combined rural–urban rate is the official combined estimate, not an arithmetic average. Source values are rounded to one decimal place.
-
-Participation rates do not show job type, hours, earnings, informality, unpaid family work or employment security. This historical series ends in 2023–24. MoSPI introduced a redesigned PLFS series for 2025; do not append newer values without checking methodological comparability.
-
-Run `python analysis/plot_indicators.py` from this folder (requires Python 3 and Matplotlib) to recreate the SVG charts.
-
-## Sources
-
-- MoSPI, *Sarvekshana*, Issue 117, Feb. 2025, “Time Series of Key Labour Force Indicators in Usual Status (ps+ss),” Tables 1–3, PDF pp. 92–94 (printed pp. 86–89): [official PDF](https://mospi.gov.in/sites/default/files/publication_reports/Sarvekshna_117th_24022025.pdf).
+- MoSPI, *Sarvekshana*, Issue 117 (February 2025), Tables 1–3: [official PDF](https://mospi.gov.in/sites/default/files/publication_reports/Sarvekshna_117th_24022025.pdf).
 - MoSPI, *Annual Report, PLFS, July 2023–June 2024*: [official PDF](https://mospi.gov.in/sites/default/files/publication_reports/AnnualReport_PLFS2023-24L2.pdf).
-- Context on measuring women’s work: [PLOS ONE article on small-area estimation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0317783). This project does not reproduce that study's estimates.
+- For definitions, survey design and access terms, see the [MoSPI microdata portal](https://microdata.gov.in/NADA/index.php/home).
 
-Only previously published aggregate statistics are included. No microdata or person-level records are included. Obtain PLFS microdata and its terms from [MoSPI’s microdata portal](https://microdata.gov.in/NADA/index.php/home); do not redistribute restricted files.
+Rates do not describe job type, hours, earnings, informality, unpaid family work or employment security. MoSPI introduced a redesigned PLFS series in 2025; this project ends in 2023–24 and does not combine the two series. No microdata or person-level records are included.
