@@ -28,7 +28,7 @@ Field research, primary data collection, structured and semi-structured survey d
 
 ## Portfolio projects
 
-- [PLFS women’s labour trends (2017–18 to 2023–24](projects/plfs-women-labour-trends/README.md) — sourced analysis and charts using official MoSPI aggregate tables.
+- [PLFS women’s labour trends (2017–18 to 2023–24)](projects/plfs-women-labour-trends/README.md) — sourced analysis and charts using official MoSPI aggregate tables.
 - [HCES 2023–24 exploratory analysis](projects/hces-2023-24/README.md) — preliminary aggregate summaries and Stata code for selected household consumption measures, including India, Uttar Pradesh, and Rae Bareli.
 - [PLFS 2025 exploratory analysis](projects/plfs-2025/README.md) — preliminary women's summary and Stata code.
 
