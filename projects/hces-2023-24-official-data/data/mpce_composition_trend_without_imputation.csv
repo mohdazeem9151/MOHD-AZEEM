@@ -1,0 +1,181 @@
+item_group,sector,period,share_of_total_mpce_pct,imputation_basis
+"cereal",rural,2011-12,10.69,without social-welfare-benefit imputation
+"cereal",rural,2022-23,4.89,without social-welfare-benefit imputation
+"cereal",rural,2023-24,4.97,without social-welfare-benefit imputation
+"cereal",urban,2011-12,6.61,without social-welfare-benefit imputation
+"cereal",urban,2022-23,3.62,without social-welfare-benefit imputation
+"cereal",urban,2023-24,3.74,without social-welfare-benefit imputation
+"cereal substitutes",rural,2011-12,0.06,without social-welfare-benefit imputation
+"cereal substitutes",rural,2022-23,0.02,without social-welfare-benefit imputation
+"cereal substitutes",rural,2023-24,0.02,without social-welfare-benefit imputation
+"cereal substitutes",urban,2011-12,0.05,without social-welfare-benefit imputation
+"cereal substitutes",urban,2022-23,0.02,without social-welfare-benefit imputation
+"cereal substitutes",urban,2023-24,0.02,without social-welfare-benefit imputation
+"gram",rural,2011-12,0.14,without social-welfare-benefit imputation
+"gram",rural,2022-23,0.24,without social-welfare-benefit imputation
+"gram",rural,2023-24,0.26,without social-welfare-benefit imputation
+"gram",urban,2011-12,0.11,without social-welfare-benefit imputation
+"gram",urban,2022-23,0.18,without social-welfare-benefit imputation
+"gram",urban,2023-24,0.18,without social-welfare-benefit imputation
+"pulses and pulse products",rural,2011-12,2.76,without social-welfare-benefit imputation
+"pulses and pulse products",rural,2022-23,1.77,without social-welfare-benefit imputation
+"pulses and pulse products",rural,2023-24,1.78,without social-welfare-benefit imputation
+"pulses and pulse products",urban,2011-12,1.93,without social-welfare-benefit imputation
+"pulses and pulse products",urban,2022-23,1.21,without social-welfare-benefit imputation
+"pulses and pulse products",urban,2023-24,1.22,without social-welfare-benefit imputation
+"sugar and salt",rural,2011-12,1.83,without social-welfare-benefit imputation
+"sugar and salt",rural,2022-23,0.93,without social-welfare-benefit imputation
+"sugar and salt",rural,2023-24,0.89,without social-welfare-benefit imputation
+"sugar and salt",urban,2011-12,1.15,without social-welfare-benefit imputation
+"sugar and salt",urban,2022-23,0.60,without social-welfare-benefit imputation
+"sugar and salt",urban,2023-24,0.57,without social-welfare-benefit imputation
+"milk and milk products",rural,2011-12,8.04,without social-welfare-benefit imputation
+"milk and milk products",rural,2022-23,8.33,without social-welfare-benefit imputation
+"milk and milk products",rural,2023-24,8.44,without social-welfare-benefit imputation
+"milk and milk products",urban,2011-12,7.01,without social-welfare-benefit imputation
+"milk and milk products",urban,2022-23,7.22,without social-welfare-benefit imputation
+"milk and milk products",urban,2023-24,7.19,without social-welfare-benefit imputation
+"vegetables",rural,2011-12,6.62,without social-welfare-benefit imputation
+"vegetables",rural,2022-23,5.38,without social-welfare-benefit imputation
+"vegetables",rural,2023-24,6.03,without social-welfare-benefit imputation
+"vegetables",urban,2011-12,4.63,without social-welfare-benefit imputation
+"vegetables",urban,2022-23,3.80,without social-welfare-benefit imputation
+"vegetables",urban,2023-24,4.12,without social-welfare-benefit imputation
+"fruits (fresh)",rural,2011-12,2.25,without social-welfare-benefit imputation
+"fruits (fresh)",rural,2022-23,2.54,without social-welfare-benefit imputation
+"fruits (fresh)",rural,2023-24,2.66,without social-welfare-benefit imputation
+"fruits (fresh)",urban,2011-12,2.64,without social-welfare-benefit imputation
+"fruits (fresh)",urban,2022-23,2.50,without social-welfare-benefit imputation
+"fruits (fresh)",urban,2023-24,2.61,without social-welfare-benefit imputation
+"fruits (dry)",rural,2011-12,0.58,without social-welfare-benefit imputation
+"fruits (dry)",rural,2022-23,1.17,without social-welfare-benefit imputation
+"fruits (dry)",rural,2023-24,1.19,without social-welfare-benefit imputation
+"fruits (dry)",urban,2011-12,0.78,without social-welfare-benefit imputation
+"fruits (dry)",urban,2022-23,1.31,without social-welfare-benefit imputation
+"fruits (dry)",urban,2023-24,1.26,without social-welfare-benefit imputation
+"egg, fish and meat",rural,2011-12,4.79,without social-welfare-benefit imputation
+"egg, fish and meat",rural,2022-23,4.91,without social-welfare-benefit imputation
+"egg, fish and meat",rural,2023-24,4.92,without social-welfare-benefit imputation
+"egg, fish and meat",urban,2011-12,3.65,without social-welfare-benefit imputation
+"egg, fish and meat",urban,2022-23,3.57,without social-welfare-benefit imputation
+"egg, fish and meat",urban,2023-24,3.56,without social-welfare-benefit imputation
+"edible oil",rural,2011-12,3.74,without social-welfare-benefit imputation
+"edible oil",rural,2022-23,3.59,without social-welfare-benefit imputation
+"edible oil",rural,2023-24,2.77,without social-welfare-benefit imputation
+"edible oil",urban,2011-12,2.66,without social-welfare-benefit imputation
+"edible oil",urban,2022-23,2.37,without social-welfare-benefit imputation
+"edible oil",urban,2023-24,1.82,without social-welfare-benefit imputation
+"spices",rural,2011-12,3.50,without social-welfare-benefit imputation
+"spices",rural,2022-23,2.98,without social-welfare-benefit imputation
+"spices",rural,2023-24,3.27,without social-welfare-benefit imputation
+"spices",urban,2011-12,2.42,without social-welfare-benefit imputation
+"spices",urban,2022-23,2.13,without social-welfare-benefit imputation
+"spices",urban,2023-24,2.30,without social-welfare-benefit imputation
+"beverages and processed food",rural,2011-12,7.90,without social-welfare-benefit imputation
+"beverages and processed food",rural,2022-23,9.62,without social-welfare-benefit imputation
+"beverages and processed food",rural,2023-24,9.84,without social-welfare-benefit imputation
+"beverages and processed food",urban,2011-12,8.98,without social-welfare-benefit imputation
+"beverages and processed food",urban,2022-23,10.64,without social-welfare-benefit imputation
+"beverages and processed food",urban,2023-24,11.09,without social-welfare-benefit imputation
+"food total",rural,2011-12,52.90,without social-welfare-benefit imputation
+"food total",rural,2022-23,46.38,without social-welfare-benefit imputation
+"food total",rural,2023-24,47.04,without social-welfare-benefit imputation
+"food total",urban,2011-12,42.62,without social-welfare-benefit imputation
+"food total",urban,2022-23,39.17,without social-welfare-benefit imputation
+"food total",urban,2023-24,39.68,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",rural,2011-12,3.21,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",rural,2022-23,3.79,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",rural,2023-24,3.84,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",urban,2011-12,1.61,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",urban,2022-23,2.43,without social-welfare-benefit imputation
+"pan tobacco and intoxicants",urban,2023-24,2.37,without social-welfare-benefit imputation
+"fuel and light",rural,2011-12,7.98,without social-welfare-benefit imputation
+"fuel and light",rural,2022-23,6.66,without social-welfare-benefit imputation
+"fuel and light",rural,2023-24,6.11,without social-welfare-benefit imputation
+"fuel and light",urban,2011-12,6.69,without social-welfare-benefit imputation
+"fuel and light",urban,2022-23,6.26,without social-welfare-benefit imputation
+"fuel and light",urban,2023-24,5.59,without social-welfare-benefit imputation
+"toilet articles and household consumables",rural,2011-12,4.01,without social-welfare-benefit imputation
+"toilet articles and household consumables",rural,2022-23,5.12,without social-welfare-benefit imputation
+"toilet articles and household consumables",rural,2023-24,5.20,without social-welfare-benefit imputation
+"toilet articles and household consumables",urban,2011-12,3.88,without social-welfare-benefit imputation
+"toilet articles and household consumables",urban,2022-23,4.98,without social-welfare-benefit imputation
+"toilet articles and household consumables",urban,2023-24,5.15,without social-welfare-benefit imputation
+"education",rural,2011-12,3.49,without social-welfare-benefit imputation
+"education",rural,2022-23,3.30,without social-welfare-benefit imputation
+"education",rural,2023-24,3.24,without social-welfare-benefit imputation
+"education",urban,2011-12,6.90,without social-welfare-benefit imputation
+"education",urban,2022-23,5.78,without social-welfare-benefit imputation
+"education",urban,2023-24,5.97,without social-welfare-benefit imputation
+"medical (hospitalisation)",rural,2011-12,2.15,without social-welfare-benefit imputation
+"medical (hospitalisation)",rural,2022-23,2.36,without social-welfare-benefit imputation
+"medical (hospitalisation)",rural,2023-24,2.25,without social-welfare-benefit imputation
+"medical (hospitalisation)",urban,2011-12,1.96,without social-welfare-benefit imputation
+"medical (hospitalisation)",urban,2022-23,1.91,without social-welfare-benefit imputation
+"medical (hospitalisation)",urban,2023-24,1.96,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",rural,2011-12,4.50,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",rural,2022-23,4.77,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",rural,2023-24,4.58,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",urban,2011-12,3.58,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",urban,2022-23,4.00,without social-welfare-benefit imputation
+"medical (non-hospitalisation)",urban,2023-24,3.89,without social-welfare-benefit imputation
+"conveyance",rural,2011-12,4.20,without social-welfare-benefit imputation
+"conveyance",rural,2022-23,7.55,without social-welfare-benefit imputation
+"conveyance",rural,2023-24,7.59,without social-welfare-benefit imputation
+"conveyance",urban,2011-12,6.52,without social-welfare-benefit imputation
+"conveyance",urban,2022-23,8.59,without social-welfare-benefit imputation
+"conveyance",urban,2023-24,8.46,without social-welfare-benefit imputation
+"consumer services excluding conveyance",rural,2011-12,3.99,without social-welfare-benefit imputation
+"consumer services excluding conveyance",rural,2022-23,5.08,without social-welfare-benefit imputation
+"consumer services excluding conveyance",rural,2023-24,5.25,without social-welfare-benefit imputation
+"consumer services excluding conveyance",urban,2011-12,5.60,without social-welfare-benefit imputation
+"consumer services excluding conveyance",urban,2022-23,5.92,without social-welfare-benefit imputation
+"consumer services excluding conveyance",urban,2023-24,5.72,without social-welfare-benefit imputation
+"entertainment",rural,2011-12,0.99,without social-welfare-benefit imputation
+"entertainment",rural,2022-23,1.09,without social-welfare-benefit imputation
+"entertainment",rural,2023-24,1.02,without social-welfare-benefit imputation
+"entertainment",urban,2011-12,1.61,without social-welfare-benefit imputation
+"entertainment",urban,2022-23,1.58,without social-welfare-benefit imputation
+"entertainment",urban,2023-24,1.77,without social-welfare-benefit imputation
+"rent",rural,2011-12,0.45,without social-welfare-benefit imputation
+"rent",rural,2022-23,0.78,without social-welfare-benefit imputation
+"rent",rural,2023-24,0.56,without social-welfare-benefit imputation
+"rent",urban,2011-12,6.24,without social-welfare-benefit imputation
+"rent",urban,2022-23,6.56,without social-welfare-benefit imputation
+"rent",urban,2023-24,6.58,without social-welfare-benefit imputation
+"other taxes and cesses",rural,2011-12,0.25,without social-welfare-benefit imputation
+"other taxes and cesses",rural,2022-23,0.13,without social-welfare-benefit imputation
+"other taxes and cesses",rural,2023-24,0.21,without social-welfare-benefit imputation
+"other taxes and cesses",urban,2011-12,0.82,without social-welfare-benefit imputation
+"other taxes and cesses",urban,2022-23,0.24,without social-welfare-benefit imputation
+"other taxes and cesses",urban,2023-24,0.33,without social-welfare-benefit imputation
+"clothing and bedding",rural,2011-12,5.99,without social-welfare-benefit imputation
+"clothing and bedding",rural,2022-23,5.24,without social-welfare-benefit imputation
+"clothing and bedding",rural,2023-24,5.67,without social-welfare-benefit imputation
+"clothing and bedding",urban,2011-12,5.37,without social-welfare-benefit imputation
+"clothing and bedding",urban,2022-23,4.64,without social-welfare-benefit imputation
+"clothing and bedding",urban,2023-24,4.80,without social-welfare-benefit imputation
+"footwear",rural,2011-12,1.02,without social-welfare-benefit imputation
+"footwear",rural,2022-23,0.86,without social-welfare-benefit imputation
+"footwear",rural,2023-24,0.96,without social-welfare-benefit imputation
+"footwear",urban,2011-12,1.00,without social-welfare-benefit imputation
+"footwear",urban,2022-23,0.77,without social-welfare-benefit imputation
+"footwear",urban,2023-24,0.86,without social-welfare-benefit imputation
+"durable goods",rural,2011-12,4.85,without social-welfare-benefit imputation
+"durable goods",rural,2022-23,6.89,without social-welfare-benefit imputation
+"durable goods",rural,2023-24,6.48,without social-welfare-benefit imputation
+"durable goods",urban,2011-12,5.60,without social-welfare-benefit imputation
+"durable goods",urban,2022-23,7.17,without social-welfare-benefit imputation
+"durable goods",urban,2023-24,6.87,without social-welfare-benefit imputation
+"non-food total",rural,2011-12,47.10,without social-welfare-benefit imputation
+"non-food total",rural,2022-23,53.62,without social-welfare-benefit imputation
+"non-food total",rural,2023-24,52.96,without social-welfare-benefit imputation
+"non-food total",urban,2011-12,57.38,without social-welfare-benefit imputation
+"non-food total",urban,2022-23,60.83,without social-welfare-benefit imputation
+"non-food total",urban,2023-24,60.32,without social-welfare-benefit imputation
+"total expenditure",rural,2011-12,100.00,without social-welfare-benefit imputation
+"total expenditure",rural,2022-23,100.00,without social-welfare-benefit imputation
+"total expenditure",rural,2023-24,100.00,without social-welfare-benefit imputation
+"total expenditure",urban,2011-12,100.00,without social-welfare-benefit imputation
+"total expenditure",urban,2022-23,100.00,without social-welfare-benefit imputation
+"total expenditure",urban,2023-24,100.00,without social-welfare-benefit imputation
