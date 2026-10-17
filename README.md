@@ -8,7 +8,7 @@ Labour and livelihoods; digital society and public services; agriculture and rur
 
 ## Education
 
-- **M.Sc. Digital Society**, Central University of Rajasthan (2024–2026)
+- **M.Sc. Digital Society**, Central University of Rajasthan (2024–2026). The available CURAJ document is a contribution certificate, not a degree certificate; [view it](docs/assets/certificates/curaj-contribution-certificate.jpg).
 - **M.A. Sociology**, Indira Gandhi National Open University (2025–2027)
 - **B.Sc. Physics, Chemistry and Mathematics**, Chhatrapati Shahu Ji Maharaj University (2021–2024)
 
@@ -20,7 +20,7 @@ Labour and livelihoods; digital society and public services; agriculture and rur
 
 ## Training
 
-Completed a **fully funded residential training programme on PLFS data** at the **V.V. Giri National Labour Institute (VVGNLI)**.
+I attended a fully funded residential programme at the **V.V. Giri National Labour Institute (VVGNLI)**. The certificate confirms successful completion of **Advanced Level Training on PLFS Data Extraction and Analysis** (5–9 October 2026). [View the certificate](docs/assets/certificates/vvgnli-plfs-training.jpg).
 
 ## Selected work
 
