@@ -1,0 +1,10 @@
+Measure,Reference_period,Area,Estimate_Rs,Households,Weight_sum
+Fuel and light consumption value,preceding 30 days,India,1223.675161,261953,29167107785.000000
+Fuel and light consumption value,preceding 30 days,Uttar Pradesh,1264.137441,30308,3947395818.000000
+Fuel and light consumption value,preceding 30 days,Rae Bareli,815.445461,557,71863435.000000
+Education consumption value,preceding 365 days,India,11063.845062,261953,29167107785.000000
+Education consumption value,preceding 365 days,Uttar Pradesh,10784.244302,30308,3947395818.000000
+Education consumption value,preceding 365 days,Rae Bareli,4830.494933,557,71863435.000000
+"Food consumption value, MMRP monthly equivalent",monthly equivalent (30-day items plus 7-day items multiplied by 30/7),India,9135.012751,261953,29167107785.000000
+"Food consumption value, MMRP monthly equivalent",monthly equivalent (30-day items plus 7-day items multiplied by 30/7),Uttar Pradesh,9041.826756,30308,3947395818.000000
+"Food consumption value, MMRP monthly equivalent",monthly equivalent (30-day items plus 7-day items multiplied by 30/7),Rae Bareli,7561.163624,557,71863435.000000
