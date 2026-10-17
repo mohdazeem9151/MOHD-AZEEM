@@ -15,6 +15,7 @@ I am particularly interested in datasets such as the Periodic Labour Force Surve
 
 ## Projects
 
-I am building this portfolio as I learn data analysis, statistical tools, visualisation, and reproducible research. My first planned project is an exploratory analysis of India’s HCES 2023–24 household expenditure data. I will document the data sources, methods, and limitations alongside any findings.
+- [HCES 2023–24 exploratory analysis](projects/hces-2023-24/README.md) — Stata code for selected household consumption measures across India, Uttar Pradesh, and Rae Bareli.
+- [PLFS 2025 exploratory analysis](projects/plfs-2025/README.md) — Stata code for exploratory employment summaries for women and Muslim youth.
 
-This GitHub profile will grow with my research and learning journey.
+These are works in progress. The repository contains analysis scripts and documentation only; it does not include survey microdata or present the saved preliminary estimates as validated findings.
