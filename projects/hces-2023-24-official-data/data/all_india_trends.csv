@@ -1,0 +1,29 @@
+indicator,sector,period,value,unit
+average_mpce_rs,rural,2011-12,1430,Rs per person per month
+average_mpce_rs,rural,2022-23,3860,Rs per person per month
+average_mpce_rs,rural,2023-24,4247,Rs per person per month
+average_mpce_rs,urban,2011-12,2630,Rs per person per month
+average_mpce_rs,urban,2022-23,6521,Rs per person per month
+average_mpce_rs,urban,2023-24,7078,Rs per person per month
+gini_total_consumption,rural,2011-12,0.283,Gini coefficient
+gini_total_consumption,rural,2022-23,0.266,Gini coefficient
+gini_total_consumption,rural,2023-24,0.237,Gini coefficient
+gini_total_consumption,urban,2011-12,0.363,Gini coefficient
+gini_total_consumption,urban,2022-23,0.314,Gini coefficient
+gini_total_consumption,urban,2023-24,0.284,Gini coefficient
+cereal_share_pct,rural,2011-12,10.75,percent
+cereal_share_pct,rural,2022-23,6.92,percent
+cereal_share_pct,rural,2023-24,7.6,percent
+food_share_pct,rural,2011-12,52.9,percent
+food_share_pct,rural,2022-23,47.47,percent
+food_share_pct,rural,2023-24,48.43,percent
+cereal_share_pct,urban,2011-12,6.66,percent
+cereal_share_pct,urban,2022-23,4.51,percent
+cereal_share_pct,urban,2023-24,4.8,percent
+food_share_pct,urban,2011-12,42.62,percent
+food_share_pct,urban,2022-23,39.7,percent
+food_share_pct,urban,2023-24,40.31,percent
+cereal_quantity_kg_per_person_month,rural,2022-23,9.61,kg per person per month
+cereal_quantity_kg_per_person_month,rural,2023-24,9.35,kg per person per month
+cereal_quantity_kg_per_person_month,urban,2022-23,8.05,kg per person per month
+cereal_quantity_kg_per_person_month,urban,2023-24,8.02,kg per person per month
