@@ -12,6 +12,8 @@ My work combines social research and data analysis. I have experience supporting
 
 ## Research experience and engagement
 
+- **PLFS data training, V.V. Giri National Labour Institute (VVGNLI)** — completed a residential, fully funded training programme on PLFS data.
+
 - **Research Intern, Department of Humanities and Social Sciences, IIT Delhi** — supported field research and data entry for work on healthcare digitalisation in Chhattisgarh and Jharkhand.
 - **Social Media Assistant, Department of Society-Technology Interface, Central University of Rajasthan**, 2025–2026.
 - **Country Ambassador - India, ISRC 2026**, Dhaka University Research Society.
@@ -29,6 +31,7 @@ Field research, primary data collection, structured and semi-structured survey d
 ## Portfolio projects
 
 - [HCES 2023–24 official tables and comparisons](projects/hces-2023-24-official-data/README.md) — State/UT expenditure, item groups, trends, fractiles, sample counts and charts drawn from MoSPI publications.
+- [PLFS annual headline statistics (2017–18 to 2023–24)](projects/plfs-official-annual-stats/README.md) — downloadable all-India annual data by indicator, sex, area and status, with charts and MoSPI sources.
 - [PLFS women’s labour trends (2017–18 to 2023–24)](projects/plfs-women-labour-trends/README.md) — sourced analysis and charts using official MoSPI aggregate tables.
 - [HCES 2023–24 exploratory analysis](projects/hces-2023-24/README.md) — preliminary aggregate summaries and Stata code for selected household consumption measures, including India, Uttar Pradesh, and Rae Bareli.
 - [PLFS 2025 exploratory analysis](projects/plfs-2025/README.md) — preliminary women's summary and Stata code.
