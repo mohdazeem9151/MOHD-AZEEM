@@ -117,7 +117,7 @@ button { font: inherit; }
 .research-inner { padding-top: 96px; padding-bottom: 110px; }
 .research-section .section-heading p { color: #aab3bc; }
 .project-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
-.project-card { display: flex; min-height: 440px; flex-direction: column; padding: 26px; border: 1px solid rgba(255,255,255,.06); border-radius: 20px; background: #202a34; transition: transform .24s ease, background .24s ease, box-shadow .24s ease; }
+.project-card { display: flex; min-height: 400px; flex-direction: column; padding: 26px; border: 1px solid rgba(255,255,255,.06); border-radius: 20px; background: #202a34; transition: transform .24s ease, background .24s ease, box-shadow .24s ease; }
 a.project-card:hover { transform: translateY(-5px); background: #273542; box-shadow: 0 22px 48px rgba(0,0,0,.22); }
 .project-featured { background: #e0edf7; color: var(--ink); }
 a.project-featured:hover { background: #edf5fc; }
@@ -229,7 +229,7 @@ a.project-featured:hover { background: #edf5fc; }
   .experience-card h3 { margin-top: 46px; font-size: 21px; }
   .experience-card p { font-size: 15px; }
   .research-inner { padding-top: 75px; padding-bottom: 82px; }
-  .project-card { min-height: 405px; padding: 21px; }
+  .project-card { min-height: 385px; padding: 21px; }
   .project-card h3 { font-size: 25px; }
   .project-card p { font-size: 15px; }
   .approach-layout { margin-top: 25px; }
