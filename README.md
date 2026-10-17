@@ -30,6 +30,8 @@ Field research, primary data collection, structured and semi-structured survey d
 
 ## Portfolio projects
 
+- [Digital agriculture: e-NAM state statistics](projects/digital-agriculture-enam/README.md) — official State/UT tables on e-NAM market integration, trade and farmer registrations (30 June 2025).
+
 - [HCES 2023–24 official tables and comparisons](projects/hces-2023-24-official-data/README.md) — State/UT expenditure, item groups, trends, fractiles, sample counts and charts drawn from MoSPI publications.
 - [PLFS annual headline statistics (2017–18 to 2023–24)](projects/plfs-official-annual-stats/README.md) — downloadable all-India annual data by indicator, sex, area and status, with charts and MoSPI sources.
 - [PLFS women’s labour trends (2017–18 to 2023–24)](projects/plfs-women-labour-trends/README.md) — sourced analysis and charts using official MoSPI aggregate tables.
