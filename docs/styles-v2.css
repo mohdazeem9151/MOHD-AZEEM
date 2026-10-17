@@ -245,3 +245,10 @@ a.project-featured:hover { background: #edf5fc; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
+
+/* Certificate previews in the education section */
+.credential-proof { display: flex; align-items: center; gap: 14px; margin-top: 14px; }
+.credential-proof a { display: block; flex: 0 0 auto; }
+.credential-proof img { display: block; width: 132px; height: 90px; object-fit: cover; border: 1px solid rgba(255,255,255,.3); border-radius: 8px; background: #fff; }
+.credential-proof span { max-width: 290px; color: #c5d2df; font-size: 12px; line-height: 1.5; }
+@media (max-width: 620px) { .credential-proof img { width: 105px; height: 75px; } .credential-proof span { font-size: 11px; } }
