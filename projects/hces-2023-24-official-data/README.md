@@ -1,39 +1,40 @@
 # HCES 2023–24: official consumption tables and derived comparisons
 
-This project organizes selected basic indicators published by India’s Ministry of Statistics and Programme Implementation (MoSPI) in the HCES 2023–24 factsheet. It combines official values with clearly labelled calculations that can be reproduced from the included CSVs.
+This project organizes the core tables in MoSPI’s HCES 2023–24 factsheet. Official values are separate from calculations made here. No microdata is redistributed.
 
-## Included datasets
+## Data files
 
-- `state_mpce_2023-24.csv`: state/UT rural and urban average monthly per-capita consumption expenditure (MPCE), with and without imputation of free items; includes a derived rural–urban gap percentage.
-- `all_india_item_mpce_2023-24.csv`: all-India rural/urban spending and shares by item group.
-- `mpce_composition_trend.csv`: rural/urban percentage composition by item group for 2011–12, 2022–23 and 2023–24.
-- `all_india_trends.csv`: average MPCE, Gini coefficients, food/cereal shares and monthly cereal quantities.
-- `mpce_fractiles.csv`: average MPCE across 12 fractile classes by sector for 2022–23 and 2023–24.
-- `sample_households_by_state.csv`: state/UT sample household counts and estimated household counts from the factsheet.
-- `analysis/plot_hces.py`: chart-generation code.
-- `figures/state_mpce.svg`, `figures/item_composition.svg`: summary graphs.
+- [State/UT MPCE](data/state_mpce_2023-24.csv): rural/urban means, with and without welfare-benefit imputation, and derived urban–rural gaps.
+- [All-India item spending, without welfare-benefit imputation](data/all_india_item_mpce_2023-24_without_imputation.csv).
+- [All-India item spending, with welfare-benefit imputation](data/all_india_item_mpce_2023-24.csv).
+- [Item composition trends, without welfare-benefit imputation](data/mpce_composition_trend_without_imputation.csv).
+- [Item composition trends, with welfare-benefit imputation](data/mpce_composition_trend.csv).
+- [All-India trends](data/all_india_trends.csv): both MPCE variants, official rural–urban gaps, Gini coefficients, food/cereal shares and cereal quantities.
+- [MPCE fractile classes](data/mpce_fractiles.csv): 12 population groups by sector and year.
+- [Sample and estimated household counts](data/sample_households_by_state.csv).
+- [Plotting code](analysis/plot_hces.py), [state MPCE chart](figures/state_mpce.svg), and [item spending chart](figures/item_composition.svg).
 
-## Selected findings
+## Selected comparisons
 
-With imputed free items, all-India MPCE in 2023–24 was ₹4,247 in rural areas and ₹7,078 in urban areas. Without imputation, the figures were ₹4,122 and ₹6,996. The derived urban–rural gap is approximately 66.7% with imputation and 69.7% without it. In Uttar Pradesh, imputed MPCE was ₹3,578 rural and ₹5,474 urban; Rajasthan was ₹4,626 and ₹6,640.
+In 2023–24, all-India MPCE without welfare-benefit imputation was ₹4,122 rural and ₹6,996 urban; with imputation it was ₹4,247 and ₹7,078. In Uttar Pradesh, the corresponding with-imputation means were ₹3,578 rural and ₹5,474 urban; Rajasthan was ₹4,626 and ₹6,640.
 
-The official factsheet reports Gini coefficients of 0.237 (rural) and 0.284 (urban) in 2023–24, compared with 0.266 and 0.314 in 2022–23. These are published estimates; this repository does not reproduce the underlying microdata analysis.
+The derived urban–rural gap formula is `(urban MPCE − rural MPCE) / rural MPCE × 100`. It is labelled as derived in the state table and rounded to one decimal place. The all-India trend file also transcribes MoSPI’s separately published gap, rounded as in its source table.
 
-## Methods, interpretation and limits
+## Definitions and cautions
 
-- MPCE is monthly per-capita consumption expenditure, not income or household total expenditure.
-- “With imputation” includes assigned values for certain free goods/services and other consumption items; “without imputation” excludes those assigned values. Do not compare the two variants as if they were identical definitions.
-- Derived urban–rural gap is calculated as `(urban MPCE - rural MPCE) / rural MPCE × 100`, rounded to one decimal place. Official source tables may round the gap to whole percentages.
-- The broad trend figures are nominal rupees. They are not inflation-adjusted and should not be read as real growth.
-- HCES factsheet state/UT estimates do not provide a Rae Bareli district estimate. The separate preliminary Rae Bareli table in this portfolio comes from an exploratory analysis and is not an official district-level fact-sheet statistic.
-- These CSVs are selected tables from the factsheet, not every detailed table in NSS Report 592. The cited official report and factsheet remain the authoritative sources.
+- MPCE is monthly per-capita consumption expenditure, not income or total household expenditure.
+- “Without imputation” here means without the extra imputed values for specified goods received free through welfare programmes. Both variants retain the survey’s standard field imputation for home-produced consumption, gifts, loans, free collection and similar items. “With imputation” adds the specified welfare-programme goods. The factsheet says free education and health services were not imputed.
+- The historical rupee series is nominal, not inflation-adjusted.
+- Gini coefficients are transcribed as published from the factsheet’s first section; they are not recalculated from household records.
+- State/UT factsheet tables do not provide a Rae Bareli district estimate. The separate Rae Bareli table in this portfolio is an exploratory district-level reanalysis and remains preliminary.
+- The CSVs cover the core factsheet tables and figures, not every detailed table in NSS Report No. 592 or all 79+ HCES catalogue datasets.
 
-To recreate charts, install Python 3 and Matplotlib, then run `python analysis/plot_hces.py` from this project folder.
+Run `python analysis/plot_hces.py` from this folder (requires Python 3 and Matplotlib) to recreate the two SVG charts.
 
 ## Sources
 
-1. MoSPI, *Factsheet of Household Consumption Expenditure Survey 2023–24*, Statements 7, 8, 9, 10–15 and sample-household table: [official PDF](https://mospi.gov.in/sites/default/files/publication_reports/HCES%20FactSheet%202023-24.pdf).
-2. MoSPI, *NSS Report No. 592: Survey on Household Consumption Expenditure, 2023–24*: [official report PDF](https://mospi.gov.in/sites/default/files/publication_reports/Final_Report_HCES_2023-24L.pdf).
-3. Official HCES data catalogue: [MoSPI eSankhyiki catalogue](https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=HCES).
+- MoSPI, *Factsheet of Household Consumption Expenditure Survey 2023–24*, Statements 1–15 and sample-household table: [official PDF](https://mospi.gov.in/sites/default/files/publication_reports/HCES%20FactSheet%202023-24.pdf).
+- MoSPI, *NSS Report No. 592: Survey on Household Consumption Expenditure, 2023–24*: [official report PDF](https://mospi.gov.in/sites/default/files/publication_reports/Final_Report_HCES_2023-24L.pdf).
+- [MoSPI eSankhyiki HCES catalogue](https://esankhyiki.mospi.gov.in/catalogue-main/catalogue?product=HCES).
 
-No household/person-level records or restricted microdata are included.
+All source values are nominal, rounded as published and linked to the official reports for definitions, sampling design and full context.
