@@ -1,0 +1,25 @@
+item_group,mpce_rural_rs,mpce_urban_rs,share_rural_pct,share_urban_pct,year,imputation_basis
+"Cereals & cereal substitutes",206,263,4.99,3.76,2023-24,without social-welfare-benefit imputation
+"Pulses & their products (includes gram)",84,98,2.04,1.40,2023-24,without social-welfare-benefit imputation
+"Sugar & salt",37,40,0.89,0.57,2023-24,without social-welfare-benefit imputation
+"Milk & milk products",348,503,8.44,7.19,2023-24,without social-welfare-benefit imputation
+"Vegetables",248,288,6.03,4.12,2023-24,without social-welfare-benefit imputation
+"Fruits",158,271,3.85,3.87,2023-24,without social-welfare-benefit imputation
+"Egg, fish & meat",203,249,4.92,3.56,2023-24,without social-welfare-benefit imputation
+"Edible oil",114,127,2.77,1.82,2023-24,without social-welfare-benefit imputation
+"Spices",135,161,3.27,2.30,2023-24,without social-welfare-benefit imputation
+"Beverages, refreshments & processed food",406,776,9.84,11.09,2023-24,without social-welfare-benefit imputation
+"Food total",1939,2776,47.04,39.68,2023-24,without social-welfare-benefit imputation
+"Pan, tobacco & intoxicants",158,166,3.84,2.37,2023-24,without social-welfare-benefit imputation
+"Fuel & light",252,391,6.11,5.59,2023-24,without social-welfare-benefit imputation
+"Education",133,418,3.24,5.97,2023-24,without social-welfare-benefit imputation
+"Medical",282,409,6.83,5.85,2023-24,without social-welfare-benefit imputation
+"Conveyance",313,592,7.59,8.46,2023-24,without social-welfare-benefit imputation
+"Consumer services excluding conveyance",217,400,5.25,5.72,2023-24,without social-welfare-benefit imputation
+"Misc. goods & entertainment",256,484,6.22,6.92,2023-24,without social-welfare-benefit imputation
+"Rent",23,460,0.56,6.58,2023-24,without social-welfare-benefit imputation
+"Taxes & cesses",9,23,0.21,0.33,2023-24,without social-welfare-benefit imputation
+"Clothing, bedding & footwear",273,396,6.63,5.66,2023-24,without social-welfare-benefit imputation
+"Durable goods",267,481,6.48,6.87,2023-24,without social-welfare-benefit imputation
+"Non-food total",2183,4220,52.96,60.32,2023-24,without social-welfare-benefit imputation
+"All items",4122,6996,100.00,100.00,2023-24,without social-welfare-benefit imputation
