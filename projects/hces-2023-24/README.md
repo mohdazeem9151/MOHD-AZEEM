@@ -34,3 +34,8 @@ The electronics table has no matching analysis script in the Codex files located
 - Account for the survey design and calculate uncertainty where appropriate.
 - Reproduce both tables from permitted source data and record software and data versions.
 - Replace the preliminary labels only after validation.
+
+
+## Official published HCES tables
+
+For state/UT MPCE, published national item-group tables, consumption-share trends, Gini estimates, fractiles and sample counts from MoSPI, see the [official-source HCES 2023–24 tables project](../hces-2023-24-official-data/README.md). The Rae Bareli estimate in this exploratory project is district-level reanalysis and is preliminary; it is not an estimate published in the factsheet.
