@@ -1,49 +1,49 @@
-mpce_fractile_class,sector,period,average_mpce_rs
-0-5%,rural,2022-23,1373
-0-5%,rural,2023-24,1677
-0-5%,urban,2022-23,2001
-0-5%,urban,2023-24,2376
-5-10%,rural,2022-23,1782
-5-10%,rural,2023-24,2126
-5-10%,urban,2022-23,2607
-5-10%,urban,2023-24,3093
-10-20%,rural,2022-23,2112
-10-20%,rural,2023-24,2473
-10-20%,urban,2022-23,3157
-10-20%,urban,2023-24,3687
-20-30%,rural,2022-23,2454
-20-30%,rural,2023-24,2833
-20-30%,urban,2022-23,3762
-20-30%,urban,2023-24,4353
-30-40%,rural,2022-23,2768
-30-40%,rural,2023-24,3162
-30-40%,urban,2022-23,4348
-30-40%,urban,2023-24,4979
-40-50%,rural,2022-23,3094
-40-50%,rural,2023-24,3498
-40-50%,urban,2022-23,4963
-40-50%,urban,2023-24,5622
-50-60%,rural,2022-23,3455
-50-60%,rural,2023-24,3866
-50-60%,urban,2022-23,5662
-50-60%,urban,2023-24,6334
-60-70%,rural,2022-23,3887
-60-70%,rural,2023-24,4304
-60-70%,urban,2022-23,6524
-60-70%,urban,2023-24,7199
-70-80%,rural,2022-23,4458
-70-80%,rural,2023-24,4885
-70-80%,urban,2022-23,7673
-70-80%,urban,2023-24,8353
-80-90%,rural,2022-23,5356
-80-90%,rural,2023-24,5763
-80-90%,urban,2022-23,9582
-80-90%,urban,2023-24,10139
-90-95%,rural,2022-23,6638
-90-95%,rural,2023-24,6929
-90-95%,urban,2022-23,12399
-90-95%,urban,2023-24,12817
-95-100%,rural,2022-23,10501
-95-100%,rural,2023-24,10137
-95-100%,urban,2022-23,20824
-95-100%,urban,2023-24,20310
+mpce_fractile_class,sector,period,average_mpce_rs,imputation_basis
+0-5%,rural,2022-23,1373,without social-welfare-benefit imputation
+0-5%,rural,2023-24,1677,without social-welfare-benefit imputation
+0-5%,urban,2022-23,2001,without social-welfare-benefit imputation
+0-5%,urban,2023-24,2376,without social-welfare-benefit imputation
+5-10%,rural,2022-23,1782,without social-welfare-benefit imputation
+5-10%,rural,2023-24,2126,without social-welfare-benefit imputation
+5-10%,urban,2022-23,2607,without social-welfare-benefit imputation
+5-10%,urban,2023-24,3093,without social-welfare-benefit imputation
+10-20%,rural,2022-23,2112,without social-welfare-benefit imputation
+10-20%,rural,2023-24,2473,without social-welfare-benefit imputation
+10-20%,urban,2022-23,3157,without social-welfare-benefit imputation
+10-20%,urban,2023-24,3687,without social-welfare-benefit imputation
+20-30%,rural,2022-23,2454,without social-welfare-benefit imputation
+20-30%,rural,2023-24,2833,without social-welfare-benefit imputation
+20-30%,urban,2022-23,3762,without social-welfare-benefit imputation
+20-30%,urban,2023-24,4353,without social-welfare-benefit imputation
+30-40%,rural,2022-23,2768,without social-welfare-benefit imputation
+30-40%,rural,2023-24,3162,without social-welfare-benefit imputation
+30-40%,urban,2022-23,4348,without social-welfare-benefit imputation
+30-40%,urban,2023-24,4979,without social-welfare-benefit imputation
+40-50%,rural,2022-23,3094,without social-welfare-benefit imputation
+40-50%,rural,2023-24,3498,without social-welfare-benefit imputation
+40-50%,urban,2022-23,4963,without social-welfare-benefit imputation
+40-50%,urban,2023-24,5622,without social-welfare-benefit imputation
+50-60%,rural,2022-23,3455,without social-welfare-benefit imputation
+50-60%,rural,2023-24,3866,without social-welfare-benefit imputation
+50-60%,urban,2022-23,5662,without social-welfare-benefit imputation
+50-60%,urban,2023-24,6334,without social-welfare-benefit imputation
+60-70%,rural,2022-23,3887,without social-welfare-benefit imputation
+60-70%,rural,2023-24,4304,without social-welfare-benefit imputation
+60-70%,urban,2022-23,6524,without social-welfare-benefit imputation
+60-70%,urban,2023-24,7199,without social-welfare-benefit imputation
+70-80%,rural,2022-23,4458,without social-welfare-benefit imputation
+70-80%,rural,2023-24,4885,without social-welfare-benefit imputation
+70-80%,urban,2022-23,7673,without social-welfare-benefit imputation
+70-80%,urban,2023-24,8353,without social-welfare-benefit imputation
+80-90%,rural,2022-23,5356,without social-welfare-benefit imputation
+80-90%,rural,2023-24,5763,without social-welfare-benefit imputation
+80-90%,urban,2022-23,9582,without social-welfare-benefit imputation
+80-90%,urban,2023-24,10139,without social-welfare-benefit imputation
+90-95%,rural,2022-23,6638,without social-welfare-benefit imputation
+90-95%,rural,2023-24,6929,without social-welfare-benefit imputation
+90-95%,urban,2022-23,12399,without social-welfare-benefit imputation
+90-95%,urban,2023-24,12817,without social-welfare-benefit imputation
+95-100%,rural,2022-23,10501,without social-welfare-benefit imputation
+95-100%,rural,2023-24,10137,without social-welfare-benefit imputation
+95-100%,urban,2022-23,20824,without social-welfare-benefit imputation
+95-100%,urban,2023-24,20310,without social-welfare-benefit imputation
