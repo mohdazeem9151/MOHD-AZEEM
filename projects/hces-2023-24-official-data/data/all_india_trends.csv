@@ -27,3 +27,15 @@ cereal_quantity_kg_per_person_month,rural,2022-23,9.61,kg per person per month,n
 cereal_quantity_kg_per_person_month,rural,2023-24,9.35,kg per person per month,not applicable to physical quantity
 cereal_quantity_kg_per_person_month,urban,2022-23,8.05,kg per person per month,not applicable to physical quantity
 cereal_quantity_kg_per_person_month,urban,2023-24,8.02,kg per person per month,not applicable to physical quantity
+average_mpce_rs,rural,2011-12,1430,Rs per person per month,without social-welfare-benefit imputation
+average_mpce_rs,rural,2022-23,3773,Rs per person per month,without social-welfare-benefit imputation
+average_mpce_rs,rural,2023-24,4122,Rs per person per month,without social-welfare-benefit imputation
+average_mpce_rs,urban,2011-12,2630,Rs per person per month,without social-welfare-benefit imputation
+average_mpce_rs,urban,2022-23,6459,Rs per person per month,without social-welfare-benefit imputation
+average_mpce_rs,urban,2023-24,6996,Rs per person per month,without social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2011-12,83.9,percent of rural MPCE,without social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2022-23,71.2,percent of rural MPCE,without social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2023-24,69.7,percent of rural MPCE,without social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2011-12,83.9,percent of rural MPCE,with social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2022-23,68.9,percent of rural MPCE,with social-welfare-benefit imputation
+urban_rural_gap_pct,difference,2023-24,66.7,percent of rural MPCE,with social-welfare-benefit imputation
