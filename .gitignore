@@ -1,0 +1,8 @@
+# Keep survey source data and local output files out of the public repository
+**/data/
+**/outputs/
+*.dta
+*.sav
+*.xlsx
+*.xls
+*.zip
