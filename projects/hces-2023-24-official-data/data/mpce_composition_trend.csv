@@ -1,0 +1,181 @@
+item_group,sector,period,share_of_total_mpce_pct
+"cereal",rural,2011-12,10.69
+"cereal",rural,2022-23,6.90
+"cereal",rural,2023-24,7.58
+"cereal",urban,2011-12,6.61
+"cereal",urban,2022-23,4.49
+"cereal",urban,2023-24,4.78
+"cereal substitutes",rural,2011-12,0.06
+"cereal substitutes",rural,2022-23,0.02
+"cereal substitutes",rural,2023-24,0.02
+"cereal substitutes",urban,2011-12,0.05
+"cereal substitutes",urban,2022-23,0.02
+"cereal substitutes",urban,2023-24,0.02
+"gram",rural,2011-12,0.14
+"gram",rural,2022-23,0.24
+"gram",rural,2023-24,0.25
+"gram",urban,2011-12,0.11
+"gram",urban,2022-23,0.18
+"gram",urban,2023-24,0.18
+"pulses and pulse products",rural,2011-12,2.76
+"pulses and pulse products",rural,2022-23,1.73
+"pulses and pulse products",rural,2023-24,1.74
+"pulses and pulse products",urban,2011-12,1.93
+"pulses and pulse products",urban,2022-23,1.20
+"pulses and pulse products",urban,2023-24,1.21
+"sugar and salt",rural,2011-12,1.83
+"sugar and salt",rural,2022-23,0.92
+"sugar and salt",rural,2023-24,0.87
+"sugar and salt",urban,2011-12,1.15
+"sugar and salt",urban,2022-23,0.60
+"sugar and salt",urban,2023-24,0.56
+"milk and milk products",rural,2011-12,8.04
+"milk and milk products",rural,2022-23,8.14
+"milk and milk products",rural,2023-24,8.19
+"milk and milk products",urban,2011-12,7.01
+"milk and milk products",urban,2022-23,7.15
+"milk and milk products",urban,2023-24,7.11
+"vegetables",rural,2011-12,6.62
+"vegetables",rural,2022-23,5.26
+"vegetables",rural,2023-24,5.85
+"vegetables",urban,2011-12,4.63
+"vegetables",urban,2022-23,3.76
+"vegetables",urban,2023-24,4.07
+"fruits (fresh)",rural,2011-12,2.25
+"fruits (fresh)",rural,2022-23,2.48
+"fruits (fresh)",rural,2023-24,2.58
+"fruits (fresh)",urban,2011-12,2.64
+"fruits (fresh)",urban,2022-23,2.48
+"fruits (fresh)",urban,2023-24,2.59
+"fruits (dry)",rural,2011-12,0.58
+"fruits (dry)",rural,2022-23,1.15
+"fruits (dry)",rural,2023-24,1.15
+"fruits (dry)",urban,2011-12,0.78
+"fruits (dry)",urban,2022-23,1.29
+"fruits (dry)",urban,2023-24,1.24
+"egg, fish and meat",rural,2011-12,4.79
+"egg, fish and meat",rural,2022-23,4.80
+"egg, fish and meat",rural,2023-24,4.78
+"egg, fish and meat",urban,2011-12,3.65
+"egg, fish and meat",urban,2022-23,3.54
+"egg, fish and meat",urban,2023-24,3.52
+"edible oil",rural,2011-12,3.74
+"edible oil",rural,2022-23,3.52
+"edible oil",rural,2023-24,2.70
+"edible oil",urban,2011-12,2.66
+"edible oil",urban,2022-23,2.35
+"edible oil",urban,2023-24,1.80
+"spices",rural,2011-12,3.50
+"spices",rural,2022-23,2.92
+"spices",rural,2023-24,3.17
+"spices",urban,2011-12,2.42
+"spices",urban,2022-23,2.11
+"spices",urban,2023-24,2.27
+"beverages and processed food",rural,2011-12,7.90
+"beverages and processed food",rural,2022-23,9.41
+"beverages and processed food",rural,2023-24,9.55
+"beverages and processed food",urban,2011-12,8.98
+"beverages and processed food",urban,2022-23,10.53
+"beverages and processed food",urban,2023-24,10.96
+"food total",rural,2011-12,52.90
+"food total",rural,2022-23,47.47
+"food total",rural,2023-24,48.43
+"food total",urban,2011-12,42.62
+"food total",urban,2022-23,39.70
+"food total",urban,2023-24,40.31
+"pan tobacco and intoxicants",rural,2011-12,3.21
+"pan tobacco and intoxicants",rural,2022-23,3.70
+"pan tobacco and intoxicants",rural,2023-24,3.73
+"pan tobacco and intoxicants",urban,2011-12,1.61
+"pan tobacco and intoxicants",urban,2022-23,2.41
+"pan tobacco and intoxicants",urban,2023-24,2.34
+"fuel and light",rural,2011-12,7.98
+"fuel and light",rural,2022-23,6.51
+"fuel and light",rural,2023-24,5.93
+"fuel and light",urban,2011-12,6.69
+"fuel and light",urban,2022-23,6.20
+"fuel and light",urban,2023-24,5.53
+"toilet articles and household consumables",rural,2011-12,4.01
+"toilet articles and household consumables",rural,2022-23,5.01
+"toilet articles and household consumables",rural,2023-24,5.04
+"toilet articles and household consumables",urban,2011-12,3.88
+"toilet articles and household consumables",urban,2022-23,4.93
+"toilet articles and household consumables",urban,2023-24,5.09
+"education",rural,2011-12,3.49
+"education",rural,2022-23,3.23
+"education",rural,2023-24,3.14
+"education",urban,2011-12,6.90
+"education",urban,2022-23,5.73
+"education",urban,2023-24,5.90
+"medical (hospitalisation)",rural,2011-12,2.15
+"medical (hospitalisation)",rural,2022-23,2.31
+"medical (hospitalisation)",rural,2023-24,2.19
+"medical (hospitalisation)",urban,2011-12,1.96
+"medical (hospitalisation)",urban,2022-23,1.89
+"medical (hospitalisation)",urban,2023-24,1.94
+"medical (non-hospitalisation)",rural,2011-12,4.50
+"medical (non-hospitalisation)",rural,2022-23,4.66
+"medical (non-hospitalisation)",rural,2023-24,4.44
+"medical (non-hospitalisation)",urban,2011-12,3.58
+"medical (non-hospitalisation)",urban,2022-23,3.96
+"medical (non-hospitalisation)",urban,2023-24,3.85
+"conveyance",rural,2011-12,4.20
+"conveyance",rural,2022-23,7.38
+"conveyance",rural,2023-24,7.36
+"conveyance",urban,2011-12,6.52
+"conveyance",urban,2022-23,8.51
+"conveyance",urban,2023-24,8.36
+"consumer services excluding conveyance",rural,2011-12,3.99
+"consumer services excluding conveyance",rural,2022-23,4.96
+"consumer services excluding conveyance",rural,2023-24,5.10
+"consumer services excluding conveyance",urban,2011-12,5.60
+"consumer services excluding conveyance",urban,2022-23,5.86
+"consumer services excluding conveyance",urban,2023-24,5.65
+"entertainment",rural,2011-12,0.99
+"entertainment",rural,2022-23,1.06
+"entertainment",rural,2023-24,0.99
+"entertainment",urban,2011-12,1.61
+"entertainment",urban,2022-23,1.57
+"entertainment",urban,2023-24,1.75
+"rent",rural,2011-12,0.45
+"rent",rural,2022-23,0.76
+"rent",rural,2023-24,0.55
+"rent",urban,2011-12,6.24
+"rent",urban,2022-23,6.49
+"rent",urban,2023-24,6.50
+"other taxes and cesses",rural,2011-12,0.25
+"other taxes and cesses",rural,2022-23,0.12
+"other taxes and cesses",rural,2023-24,0.20
+"other taxes and cesses",urban,2011-12,0.82
+"other taxes and cesses",urban,2022-23,0.24
+"other taxes and cesses",urban,2023-24,0.32
+"clothing and bedding",rural,2011-12,5.99
+"clothing and bedding",rural,2022-23,5.18
+"clothing and bedding",rural,2023-24,5.61
+"clothing and bedding",urban,2011-12,5.37
+"clothing and bedding",urban,2022-23,4.62
+"clothing and bedding",urban,2023-24,4.77
+"footwear",rural,2011-12,1.02
+"footwear",rural,2022-23,0.85
+"footwear",rural,2023-24,0.95
+"footwear",urban,2011-12,1.00
+"footwear",urban,2022-23,0.76
+"footwear",urban,2023-24,0.86
+"durable goods",rural,2011-12,4.85
+"durable goods",rural,2022-23,6.79
+"durable goods",rural,2023-24,6.34
+"durable goods",urban,2011-12,5.60
+"durable goods",urban,2022-23,7.13
+"durable goods",urban,2023-24,6.83
+"non-food total",rural,2011-12,47.10
+"non-food total",rural,2022-23,52.53
+"non-food total",rural,2023-24,51.57
+"non-food total",urban,2011-12,57.38
+"non-food total",urban,2022-23,60.30
+"non-food total",urban,2023-24,59.69
+"total expenditure",rural,2011-12,100.00
+"total expenditure",rural,2022-23,100.00
+"total expenditure",rural,2023-24,100.00
+"total expenditure",urban,2011-12,100.00
+"total expenditure",urban,2022-23,100.00
+"total expenditure",urban,2023-24,100.00
