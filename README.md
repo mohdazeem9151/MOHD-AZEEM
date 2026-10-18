@@ -12,6 +12,9 @@ Labour and livelihoods; digital society and public services; agriculture and rur
 - **M.A. Sociology**, Indira Gandhi National Open University (2025–2027)
 - **B.Sc. Physics, Chemistry and Mathematics**, Chhatrapati Shahu Ji Maharaj University (2021–2024)
 
+
+- Dissertation research: [Impact Assessment of Dvara KhetScore Model on Agricultural Credit Access among Farmers in Dudu and Phagi of Jaipur, Rajasthan](projects/agricultural-credit-khetscore/README.md). [Read the privacy-reviewed portfolio brief (PDF)](docs/assets/dissertation/khetscore-dissertation-research-brief.pdf); this is a summary, not the full dissertation.
+
 ## Research and professional experience
 
 - **Research Intern**, Department of Humanities and Social Sciences, IIT Delhi — supported field research and data entry for a study of healthcare digitalisation in Chhattisgarh and Jharkhand.

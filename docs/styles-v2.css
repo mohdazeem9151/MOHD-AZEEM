@@ -252,3 +252,12 @@ a.project-featured:hover { background: #edf5fc; }
 .credential-proof img { display: block; width: 132px; height: 90px; object-fit: cover; border: 1px solid rgba(255,255,255,.3); border-radius: 8px; background: #fff; }
 .credential-proof span { max-width: 290px; color: #c5d2df; font-size: 12px; line-height: 1.5; }
 @media (max-width: 620px) { .credential-proof img { width: 105px; height: 75px; } .credential-proof span { font-size: 11px; } }
+
+
+/* Public dissertation portfolio materials */
+.dissertation-proof { margin-top: 12px; padding-top: 11px; border-top: 1px solid rgba(255,255,255,.13); }
+.dissertation-label { display: block; margin-bottom: 5px; color: #aab8c4; font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.dissertation-proof a { color: #dceeff; font-size: 13px; line-height: 1.5; }
+.dissertation-proof a:hover { color: #93c8ff; }
+.dissertation-art { padding: 0; background: #111820; }
+.dissertation-art img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center 36%; }
