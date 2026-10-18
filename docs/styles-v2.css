@@ -259,5 +259,7 @@ a.project-featured:hover { background: #edf5fc; }
 .dissertation-label { display: block; margin-bottom: 5px; color: #aab8c4; font-size: 10px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
 .dissertation-proof a { color: #dceeff; font-size: 13px; line-height: 1.5; }
 .dissertation-proof a:hover { color: #93c8ff; }
-.dissertation-art { padding: 0; background: #111820; }
-.dissertation-art img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center 36%; }
+.dissertation-art { display: flex; height: 220px; align-items: center; justify-content: flex-start; gap: 24px; padding: 12px 20px; background: #eaf0f4; }
+.dissertation-art img { display: block; flex: 0 0 auto; width: auto; height: 100%; max-width: 165px; object-fit: contain; object-position: center; border-radius: 8px; }
+.dissertation-art > .dissertation-art-note { position: static; color: #43586a; font: 600 10px/1.55 var(--body); letter-spacing: .1em; text-transform: uppercase; }
+.dissertation-art-note strong { display: block; margin-top: 8px; color: #172b3b; font: 700 18px/1.3 var(--display); letter-spacing: -.03em; text-transform: none; }
