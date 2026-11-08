@@ -1,6 +1,6 @@
 # Mohd Azeem
 
-I am an emerging social science researcher interested in how technology, work and public policy shape people’s lives in India. My work brings together field research and data analysis, with a current focus on agricultural credit and the Dvara Khet Score model in Rajasthan.
+I am an emerging social science researcher interested in how technology, work and public policy shape people’s lives in India. My work brings together field research, survey data analysis (Stata, R, Python) and research software, with a current focus on agricultural credit and the Dvara KhetScore model in Rajasthan.
 
 ## Research interests
 
@@ -9,7 +9,6 @@ Labour and livelihoods; digital society and public services; agriculture and rur
 ## Education
 
 - **M.Sc. Digital Society**, Central University of Rajasthan (2024–2026). The available CURAJ document is a contribution certificate, not a degree certificate; [view it](docs/assets/certificates/curaj-contribution-certificate.jpg).
-- **M.A. Sociology**, Indira Gandhi National Open University (2025–2027)
 - **B.Sc. Physics, Chemistry and Mathematics**, Chhatrapati Shahu Ji Maharaj University (2021–2024)
 
 
@@ -39,10 +38,14 @@ I attended a fully funded residential programme at the **V.V. Giri National Labo
 - [HCES household consumption analysis](projects/hces-2023-24/README.md) — early Stata summaries for India, Uttar Pradesh and Rae Bareli.
 - [PLFS 2025 labour analysis](projects/plfs-2025/README.md) — preliminary Stata summaries using the redesigned PLFS series.
 
+### Research software
+
+- [StockItihas](https://stockitihas.streamlit.app/) - a free web app presenting NSE stock market history and records (history and record-keeping only; no predictions or investment advice).
+
 Exploratory results are labelled as preliminary and should not be cited as validated findings. Each project page explains its sources, methods and limitations. No survey microdata or private fieldwork records are included.
 
 ## Methods and tools
 
-My research experience includes field research, survey design, interviews, focus group discussions, data management, quantitative and qualitative analysis, and research writing. Tools I have worked with include R, Stata, Python, SPSS, KoboToolbox, LaTeX and Zotero.
+My research experience includes field research, survey design, interviews, focus group discussions, data management, quantitative and qualitative analysis, and research writing. Tools I have worked with include Stata, R, Python, SPSS, NVivo, KoboToolbox, LaTeX, Zotero, GitHub and Streamlit.
 
-[LinkedIn](https://www.linkedin.com/in/mohd-azeem-658697345) · [GitHub profile](https://github.com/mohdazeem9151)
+[Portfolio](https://mohdazeem9151.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohd-azeem-658697345) · [ResearchGate](https://www.researchgate.net/profile/Mohd-Azeem-8) · [ORCID](https://orcid.org/0009-0008-7874-1614) · [StockItihas](https://stockitihas.streamlit.app/) · [GitHub profile](https://github.com/mohdazeem9151)
